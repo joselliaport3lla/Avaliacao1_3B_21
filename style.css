@@ -133,4 +133,6 @@ label{
     height: 30px;
     width: 25%;
     background-color: #e71b32;
+    position: relative;
+    bottom: 30px;
 }
