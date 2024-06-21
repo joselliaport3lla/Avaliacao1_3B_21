@@ -129,7 +129,7 @@ label{
     width: 100%;
 }
 
-parametro-senha-textos {
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
