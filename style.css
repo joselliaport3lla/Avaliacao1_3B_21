@@ -141,3 +141,11 @@ label{
     position: relative;
     bottom: 30px;
 }
+
+.media{
+    height: 30px;
+    width: 50%;
+    background-color: #faf408;
+    position: relative;
+    bottom: 30px;
+}
